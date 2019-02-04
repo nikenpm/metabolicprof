@@ -1,32 +1,48 @@
 # metabolicprof 
 
-****Part 1. Metabolic cluster of beef cattle****
+### Part 1. Metabolic cluster of beef cattle
 
-Dataset:
+#### Dataset:
+
 aftercalving.csv
+
 beforecalving.csv
+
 nearaftercalving.csv
 
-Jupyter NoteBook:
+#### Jupyter NoteBook:
+
 cattle-before.ipynb
+
 cattle-after.ipynb
 
-Main program:
+#### Main program:
+
 cattleclustering.py
 
-****Part 2. Metabolic cluster of dairy cow****
-Dataset:
+### Part 2. Metabolic cluster of dairy cow
+
+#### Dataset:
+
 dairycow-dry.csv
+
 dairycow-early.csv
+
 dairycow-fresh.csv
+
 dairycow-mid.csv
 
-Jupyter Notebook: 
+#### Jupyter Notebook: 
+
 dairycow-dry.ipynb
+
 dairycow-early.ipynb
+
 dairycow-fresh.ipynb
+
 dairycow-mid.ipynb
 
-Main program: 
+#### Main program: 
+
 dairyclustering.py
 
