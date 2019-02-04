@@ -16,9 +16,7 @@ cattle-before.ipynb
 
 cattle-after.ipynb
 
-#### Main program:
 
-cattleclustering.py
 
 ### Part 2. Metabolic cluster of dairy cow
 
