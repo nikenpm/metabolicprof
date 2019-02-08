@@ -10,13 +10,6 @@ beforecalving.csv
 
 nearaftercalving.csv
 
-#### Jupyter NoteBook:
-
-cattle-before.ipynb
-
-cattle-after.ipynb
-
-
 
 ### Part 2. Metabolic cluster of dairy cow
 
@@ -30,17 +23,8 @@ dairycow-fresh.csv
 
 dairycow-mid.csv
 
-#### Jupyter Notebook: 
-
-dairycow-dry.ipynb
-
-dairycow-early.ipynb
-
-dairycow-fresh.ipynb
-
-dairycow-mid.ipynb
 
 #### Main program: 
 
-dairyclustering.py
+cowclustering.py
 
