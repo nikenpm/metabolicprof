@@ -24,7 +24,7 @@ dairycow-fresh.csv
 dairycow-mid.csv
 
 
-#### Main program: 
+### Main program: 
 
 cowclustering.py
 
